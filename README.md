@@ -4,12 +4,12 @@ The dataset includes features such as venue, team1, stage, toss winner, decision
 
 CONCLUSIONS:
 
-• 29 games played, with more games held in SCG.
-• England won the toss, followed by India, Ireland, and Pakistan.
-• Toss decisions favor bating over field.
-• England won the most matches, followed by India, Pakistan, and New Zealand.
-• Virat Kohli, Taskin Ahmed, Suryakumar Yadav, Rilee Rossouw, Glen Philip, and Shahab Khan scored the most runs.
-• Toss winner did not guarantee team victory; 44.83% of games won by toss winner, 55.17% by toss winner.
-• Top scorer or best bowler did not necessarily mean match player.
-• New Zealand and Bangladesh won all games taking wickets.
-• India won all games with runs except one.
+  • 29 games played, with more games held in SCG.
+  • England won the toss, followed by India, Ireland, and Pakistan.
+  • Toss decisions favor bating over field.
+  • England won the most matches, followed by India, Pakistan, and New Zealand.
+  • Virat Kohli, Taskin Ahmed, Suryakumar Yadav, Rilee Rossouw, Glen Philip, and Shahab Khan scored the most runs.
+  • Toss winner did not guarantee team victory; 44.83% of games won by toss winner, 55.17% by toss winner.
+  • Top scorer or best bowler did not necessarily mean match player.
+  • New Zealand and Bangladesh won all games taking wickets.
+  • India won all games with runs except one.
